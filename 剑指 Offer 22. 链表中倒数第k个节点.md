@@ -25,8 +25,6 @@
 1. 先统计链表长度。倒数第 k 个节点 = 链表长度 - k。
 2. 然后从头开始走，控制条件为链表长度 > k。此时走到的节点即所求节点。
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gu1mnzf88yj60rw0p8go902.jpg" alt="截屏2021-09-02 上午12.27.30.png" style="zoom:67%;" />
-
 此题简单，还是不明白的，动手在纸上一画就懂。
 
 **### 代码**
@@ -62,10 +60,10 @@ public:
 #### 解法2：双指针
 
 1. 声明两个指针。快的 fast 先走 k 步。
-
 2. 然后另外一个 slow 从头开始走，同时 fast 也继续走。步长1
-
 3. 直到 fast 为 nullpt，此时 slow 指向的节点就是所求的倒数第 k 个节点。
+
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gu1mnzf88yj60rw0p8go902.jpg" alt="截屏2021-09-02 上午12.27.30.png" style="zoom:67%;" />
 
 ```c++
 class Solution {
