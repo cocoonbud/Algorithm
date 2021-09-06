@@ -9,4 +9,5 @@ leetcode或者其他一些算法的解题思路🚀
 #### 6. [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/cocoonbud/Algorithm/blob/master/%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 #### 7. [Leetcode 面试题 17.14. 最小K个数](https://github.com/cocoonbud/Algorithm/blob/master/leetcode%20%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.md)
 #### 8. [Leetcode704. 二分查找](https://github.com/cocoonbud/Algorithm/blob/master/Leetcode704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+#### 9. [Leetcode1221. 分割平衡字符串](https://github.com/cocoonbud/Algorithm/blob/master/Leetcode1221.%20%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
