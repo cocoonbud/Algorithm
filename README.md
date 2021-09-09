@@ -11,4 +11,7 @@ leetcode或者其他一些算法的解题思路🚀
 #### 8. [Leetcode704. 二分查找](https://github.com/cocoonbud/Algorithm/blob/master/Leetcode704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 #### 9. [Leetcode1221. 分割平衡字符串](https://github.com/cocoonbud/Algorithm/blob/master/Leetcode1221.%20%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 #### 10. [Leetcode502. IPO](https://github.com/cocoonbud/Algorithm/blob/master/Leetcode502.%20IPO.md)
+#### 11. [LeetCode1894. 找到需要补充粉笔的学生编号](https://github.com/cocoonbud/Algorithm/blob/master/LeetCode1894.%20%E6%89%BE%E5%88%B0%E9%9C%80%E8%A6%81%E8%A1%A5%E5%85%85%E7%B2%89%E7%AC%94%E7%9A%84%E5%AD%A6%E7%94%9F%E7%BC%96%E5%8F%B7.md)
+#### 12. [LeetCode68. 文本左右对齐](https://github.com/cocoonbud/Algorithm/blob/master/LeetCode68.%20%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.md)
+
 
